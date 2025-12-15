@@ -1,0 +1,2 @@
+# GeoSmartAttend__ML_Based_Multi_Modal_Smart_Attendance_System_Using_Face_and_Location_Verification
+GeoSmartAttend is a smart attendance system that uses machine learning–based face recognition and GPS location verification to mark attendance securely. Attendance is recorded only when the user’s face and location are verified, preventing proxy attendance and reducing manual effort in institutions.
